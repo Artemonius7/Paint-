@@ -1,0 +1,26 @@
+C:\Users\Admin\source\repos\paint\paint\bin\Debug\paint.exe.config
+C:\Users\Admin\source\repos\paint\paint\bin\Debug\paint.exe
+C:\Users\Admin\source\repos\paint\paint\bin\Debug\paint.pdb
+C:\Users\Admin\source\repos\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\paint\paint\obj\Debug\paint.Form1.resources
+C:\Users\Admin\source\repos\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\Admin\source\repos\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\paint\paint\obj\Debug\paint.exe
+C:\Users\Admin\source\repos\paint\paint\obj\Debug\paint.pdb
+C:\Users\Admin\source\repos\paint\paint\obj\Debug\paint.exe.config
+D:\Лабы\ООП 2 курс\paint\paint\bin\Debug\paint.exe.config
+D:\Лабы\ООП 2 курс\paint\paint\bin\Debug\paint.exe
+D:\Лабы\ООП 2 курс\paint\paint\bin\Debug\paint.pdb
+D:\Лабы\ООП 2 курс\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+D:\Лабы\ООП 2 курс\paint\paint\obj\Debug\paint.Form1.resources
+D:\Лабы\ООП 2 курс\paint\paint\obj\Debug\paint.Properties.Resources.resources
+D:\Лабы\ООП 2 курс\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+D:\Лабы\ООП 2 курс\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+D:\Лабы\ООП 2 курс\paint\paint\obj\Debug\paint.exe
+D:\Лабы\ООП 2 курс\paint\paint\obj\Debug\paint.pdb
+D:\Лабы\ООП 2 курс\paint\paint\bin\Debug\Images\car.jpg
+D:\Лабы\ООП 2 курс\paint\paint\bin\Debug\Images\oldman.jpeg
+D:\Лабы\ООП 2 курс\paint\paint\bin\Debug\Images\pc.jpg
+D:\Лабы\ООП 2 курс\paint\paint\bin\Debug\Images\penguin.jpg
+D:\Лабы\ООП 2 курс\paint\paint\bin\Debug\Images\pizza.jpg
